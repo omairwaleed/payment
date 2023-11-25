@@ -2,7 +2,7 @@
   "name": "wallet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://LL04-Finance-Dowell.github.io/100088-dowellwallet",
+  "homepage": "https://omairwaleed.github.io/payment",
   "dependencies": {
     "@ramonak/react-progress-bar": "^5.0.3",
     "@testing-library/jest-dom": "^5.17.0",
