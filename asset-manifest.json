@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/payment/static/css/main.78e0cf08.css",
-    "main.js": "/payment/static/js/main.5b1dc1dd.js",
+    "main.js": "/payment/static/js/main.951b4f60.js",
     "static/media/logo_dowell.png": "/payment/static/media/logo_dowell.418a6fbd9da57250d112.png",
     "index.html": "/payment/index.html",
     "main.78e0cf08.css.map": "/payment/static/css/main.78e0cf08.css.map",
-    "main.5b1dc1dd.js.map": "/payment/static/js/main.5b1dc1dd.js.map"
+    "main.951b4f60.js.map": "/payment/static/js/main.951b4f60.js.map"
   },
   "entrypoints": [
     "static/css/main.78e0cf08.css",
-    "static/js/main.5b1dc1dd.js"
+    "static/js/main.951b4f60.js"
   ]
 }
